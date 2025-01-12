@@ -2,6 +2,7 @@
 env setup workflow -
 
 - Windows desktop setup
+- VSCode setup
 - WSL setup
   - lightweigh distro - Alpine linux
 - Docker setup
